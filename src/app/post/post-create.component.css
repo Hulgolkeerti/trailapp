@@ -1,8 +1,6 @@
-.mat-card{
-  width: 50%;
-}
+
 mat-form-feild,
 textarea{
-width: 100%;
+width: 50%;
 
 }
